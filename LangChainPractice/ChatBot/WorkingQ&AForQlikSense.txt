@@ -1,0 +1,68 @@
+Project:- Qlik Sense 28 May
+
+Prompt Question:-
+
+1: who developed the Qlik Sense?
+
+Qlik developed Qlik Sense.
+
+2: Qlik is a Multi-lingual support ?
+
+Yes, Qlik Sense supports multiple languages, as indicated by the feature "Multi-lingual support for translating metadata at the presentation layer" in the database.
+
+-----------------------------------------
+1:what are the features available ?
+
+The features listed in the "features" column of the database are:
+
+Product
+Latest Version
+Vendor
+Website
+Languages
+Editions
+Host Operating System
+Memory model
+Business Intelligence
+Multi Dimensional View
+
+2:what are the different products offered in Qlik Sense?
+The different products offered in QlikSense according to the database are:
+
+QlikSense Desktop
+QlikSense Server
+Qlik Data Transfer
+QlikSense Cloud
+QlikSense SaaS
+
+3: What is the latest version of Qlik Sense?
+The latest version of Qlik Sense is "Qlik Sense May 2023".
+
+
+4: Is Qlik Sense in memory Model?
+Yes, Qlik Sense uses an in-memory model.
+
+5: what all editions available under Qlik Sense column?
+The editions listed under the Qlik Sense column in the database are:
+
+Qlik Sense Desktop
+Qlik Sense Cloud Basic
+Qlik Sense Cloud Business
+Qlik Sense Enterprise
+
+6: What are the languages available for Qlik Sense ?
+
+Qlik Sense supports the following languages: English, German, Spanish, French, Italian, Japanese, Dutch, Brazilian Portuguese, Russian, Swedish, Simplified Chinese, Polish, Turkish, Korean, and Traditional Chinese.
+
+7: Which website is used for Qlik Sense?
+
+The website listed for Qlik Sense in the database is www.qlik.com.
+
+8: Who is the Vendor for QlikSense?
+
+The vendor for QlikSense is Qlik.
+
+9: Is warehousing mandatory in Qlik Sense?
+
+Warehousing is optional for Qlik Sense, as there is no mandatory mention of it being required in the available data.
+

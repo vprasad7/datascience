@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchainhub
+langchain-openai
+openai
+chromadb
+bs4
+pandas
+numpy
+python-dotenv
+ipykernel
+unstructured
+pypdf
+streamlit
+networkx
+openpyxl
+streamlit_float
