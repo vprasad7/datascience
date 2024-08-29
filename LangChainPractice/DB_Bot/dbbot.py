@@ -14,7 +14,7 @@ from langchain.chat_models import ChatOpenAI
 from langchain.schema.runnable import RunnablePassthrough
 from langchain.schema.output_parser import StrOutputParser
 
-env_vars = {"<KeyNeededHere>"}
+###env_vars = {"<KeyNeededHere>"} Add Key here OPEN_AI_KEY varaible
     
 for key, value in env_vars.items():
     os.environ[key] = value
