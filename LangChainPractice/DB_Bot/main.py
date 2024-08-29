@@ -15,7 +15,7 @@ from langchain.schema.runnable import RunnablePassthrough
 from langchain.schema.output_parser import StrOutputParser
 
 env_vars = {
-    "OPENAI_API_KEY": "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",
+    "OPENAI_API_KEY": 'OpenAI Key here',
 }
 for key, value in env_vars.items():
     os.environ[key] = value
